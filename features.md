@@ -15,7 +15,15 @@ Development version: 1.5.0
 <tr>
 <td>Tables</td>
 <td>✓</td><td>✓</td><td></td>
-<td>Don't use tables in 1.4. In 1.5.0svn most feature are there, but the usability is still bad</td>
+<td>Don't use tables in 1.4: use tabs or import them as images or vectors from Libre/OpenOffice. In 1.5.0svn most feature are there, but the usability is still bad</td>
+<tr>
+<td>Footnotes</td>
+<td>✗</td><td>✓</td><td></td>
+<td>Don't use tables in 1.4: use tabs or import them as images or vectors from Libre/OpenOffice. In 1.5.0svn most feature are there, but the usability is still bad</td>
+</table>
+<td>Bullet lists</td>
+<td>✗</td><td>✗</td><td>✓ ("numbering" branch + ticket #11228</td>
+<td>Don't use tables in 1.4: use tabs or import them as images or vectors from Libre/OpenOffice. In 1.5.0svn most feature are there, but the usability is still bad</td>
 </table>
 
 - ✓ ✗ 
