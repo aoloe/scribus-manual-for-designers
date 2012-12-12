@@ -24,7 +24,7 @@ Development version: 1.5.0
 </tr>
 <tr>
 <td>Bullet lists</td>
-<td>✗</td><td>✗</td><td>✓ ("numbering" git branch + ticket #11228</td>
+<td>✗</td><td>✗</td><td>✓<br />"numbering" git branch + ticket #11228</td>
 <td>Should be integrated soon into 1.5.0svn</td>
 </tr>
 </table>
