@@ -16,6 +16,8 @@ a.l.e: we were thinking about it yesterday evening: announce a scribus workshop 
 
 getting in touch with the community and getting the software changed to match your needs is also a potential advantage...
 
+jLuc: "talk with developpers about your dreams and help them create better tools"
+
 # Usecases
 
 the main one  i could think of is: if an association asks you to help out with a newsletter, do it with scribus so you can get them to do the further work of layouting...
