@@ -1,7 +1,7 @@
 #Features
 
-Last update: 12.12.12
-Stable version: 1.4.1
+Last update: 12.12.12<br />
+Stable version: 1.4.1<br />
 Development version: 1.5.0
 
 <table>
